@@ -1,1 +1,27 @@
+{
+  "name": "Youth Dating & Chat",
+  "short_name": "YouthChat",
+  "description": "DSGVO-konforme Dating- & Chat-App für Jugendliche ab 14 Jahren",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#020617",
+  "lang": "de",
+  "categories": ["social", "communication"],
+
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
 
